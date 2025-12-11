@@ -1,0 +1,7 @@
+names:
+- pupil
+nc: 1
+path: /home/fzn/lyq/pupil_detection/dataset_proper_split
+test: images/test
+train: images/train
+val: images/val
