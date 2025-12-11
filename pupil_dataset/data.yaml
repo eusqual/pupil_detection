@@ -1,7 +1,7 @@
 names:
 - pupil
 nc: 1
-path: /home/fzn/lyq/pupil_detection/dataset_proper_split
+path: /home/fzn/lyq/pupil_detection/pupil_dataset
 test: images/test
 train: images/train
 val: images/val
